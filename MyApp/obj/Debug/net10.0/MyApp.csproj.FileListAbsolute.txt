@@ -1,0 +1,15 @@
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/bin/Debug/net10.0/MyApp
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/bin/Debug/net10.0/MyApp.dll
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/bin/Debug/net10.0/MyApp.pdb
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.sourcelink.json
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.dll
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.pdb
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/Users/xiaojinxin/Desktop/Coursera /C-_study/MyApp/obj/Debug/net10.0/ref/MyApp.dll
