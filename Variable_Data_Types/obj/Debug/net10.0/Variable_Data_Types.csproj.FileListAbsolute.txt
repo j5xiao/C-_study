@@ -1,0 +1,15 @@
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.AssemblyInfoInputs.cache
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.AssemblyInfo.cs
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.csproj.CoreCompileInputs.cache
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.sourcelink.json
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/bin/Debug/net10.0/Variable_Data_Types
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/bin/Debug/net10.0/Variable_Data_Types.deps.json
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/bin/Debug/net10.0/Variable_Data_Types.runtimeconfig.json
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/bin/Debug/net10.0/Variable_Data_Types.dll
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/bin/Debug/net10.0/Variable_Data_Types.pdb
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.dll
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/refint/Variable_Data_Types.dll
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.pdb
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/Variable_Data_Types.genruntimeconfig.cache
+/Users/xiaojinxin/Desktop/Coursera /C-_study/Variable_Data_Types/obj/Debug/net10.0/ref/Variable_Data_Types.dll
